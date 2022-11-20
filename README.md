@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcoc51
-- 👀 I’m interested in Python and SQL
-- 🌱 I’m currently learning Data Engineering Track
+- 👀 I’m interested in Python, SQL, Power BI, and Tableau
+- 🌱 I’m currently learning Data Engineering
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/marc-atef-2ab62b1b7/) and [Twitter](https://twitter.com/MarkAtef55)
 
 <!---
