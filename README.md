@@ -10,7 +10,7 @@
 - 👋 Hi, I’m Marc Sanad
 - 👀 I’m interested in Python, SQL, Power BI, and Tableau
 - 🌱 I’m currently learning Data Engineering
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Marc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marc-atef-2ab62b1b7/)  [![Linkedin Badge](https://img.shields.io/badge/Marc-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MarkAtef55)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Marc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marc-sanad-2ab62b1b7/)  [![Linkedin Badge](https://img.shields.io/badge/Marc-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MarkAtef55)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
