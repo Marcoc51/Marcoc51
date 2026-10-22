@@ -1,79 +1,88 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
-</div>
+# Hi, I'm Marc Sanad 👋
 
-<h1 align="center">
-  Hey there! I'm Marc Sanad
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+**Data Engineer | Cloud Data Platforms | Football & Sports Technology**
 
-<p align="center">🚀 Data Engineer | ⚽ Football Analytics Enthusiast | 🛠️ Builder of ETL Pipelines</p>
+I'm a Data Engineer with **3+ years of professional experience** designing, building, and maintaining data pipelines, data warehouses, and cloud-based data infrastructure across **Football, FinTech, EdTech, Food & Beverage, and Software** industries.
 
----
+My work focuses on turning complex and fragmented data into reliable, accessible, and maintainable systems that support operational and business decisions.
 
-### 👨‍💻 About Me
+Currently working with **Right to Dream**, I've been combining data engineering with football performance analytics, scouting workflows, and internal tools, while bringing experience from data platform and automation projects across other industries.
 
-- 🧠 Passionate about turning raw data into actionable insights
-- 🔧 Currently building end-to-end data pipelines with Python, dbt, PostgreSQL, and Apache Airflow
-- 📊 Applying my skills in real-world projects like football analytics using [FBref](https://fbref.com) data
-- 🧰 Comfortable across modern data stacks: from Docker to Snowflake
+## 💼 What I Do
 
----
+- **Data Engineering & Integration:** Develop ETL/ELT pipelines, API integrations, batch processing, and data ingestion workflows.
+- **Data Warehousing & Modeling:** Design analytical data models, dimensional schemas, transformations, and data quality processes.
+- **Cloud Data Infrastructure:** Build and maintain data solutions across cloud services, relational databases, and modern data platforms.
+- **Orchestration & DevOps:** Work with workflow orchestrators, Docker, Git-based development, and CI/CD pipelines.
+- **Analytics & Applications:** Connect data engineering with reporting, operational workflows, and internal applications.
 
-### :rocket: Tech Stack & Tools
+## 🚀 Featured Work
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Kafka" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Apache Spark" alt="Spark" width="50" height="50"/>
-  <img src="https://camo.githubusercontent.com/aa145df10dec00d65db9b88cd5b57a5920045e5bba82da82176403bcdcb66d0b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313230302f312a424c4d6b4e5f4a4434652d2d5441554f7161566636412e706e67" title="Mage.ai" alt="Mage" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Apache Airflow" alt="Airflow" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/fa1ea14ddfb1d5ae319d5141844910dd53ab2834/etc/dbt-core.svg" title="dbt" alt="dbt" width="100" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="AWS" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" title="Snowflake" alt="Snowflake" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="GCP" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SQL" alt="MS SQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" title="MS Power BI" alt="Power BI" width="50" height="50"/>
-</div>
+### ⚽ [Brentford Data Analytics](https://github.com/Marcoc51/Brentford-Data-Analytics)
 
----
+*Independent Football Data Engineering Project*
 
-### 📈 Projects I’m Proud Of
+An independent portfolio project exploring end-to-end football data engineering workflows, from data ingestion and storage to transformation, orchestration, and analytics.
 
-- 🔍 **[Brentford FC Football Analytics Project](https://github.com/Marcoc51/Brentford-Data-Analytics)** — Scraped, modeled, and analyzed match & player data from FBref and visualized KPIs using Power BI and Snowflake
+**Technologies:** Python · PostgreSQL · Snowflake · dbt · Apache Airflow · Docker · Power BI
 
----
+*An independent educational project, not affiliated with or endorsed by Brentford FC.*
 
-### 📫 Let’s Connect
+### 📊 RTD Egypt Performance Data Mart
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Marc-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/marc-sanad/)
-[![X](https://img.shields.io/badge/Marc-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/MarkAtef55)
+*Professional Experience | Right to Dream & FC Masar*
 
----
+Designed and developed a dedicated, dbt-based analytical data layer supporting football performance reporting for Right to Dream Egypt Academy and FC Masar Men's and Women's teams.
 
-### 📊 GitHub Stats
+The solution supports performance workflows involving GPS, RPE, and physical testing data, making information more accessible and relevant to coaching and performance staff.
 
-<div align="center">
+**Technologies:** SQL Server · Azure SQL · dbt · Power BI
 
-![Marc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcoc51&show_icons=true&theme=github_dark&hide_title=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoc51&layout=compact&theme=github_dark)
+### 🔎 RTD Egypt Scouting Portal
 
-</div>
+*Professional Experience | Right to Dream Egypt*
 
----
+Built and deployed a scouting application supporting football scouting operations and cross-departmental workflows.
 
-### 📈 GitHub Contribution Graph
+Worked on data modeling, data quality, player and report management, assessment visibility, role-based workflows, and application deployment.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marcoc51&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+**Technologies:** Python · Streamlit · Azure SQL · GitHub Actions · CI/CD
 
----
+*Professional projects are summarized at a high level. Proprietary source code, internal systems, and confidential organizational data are not publicly shared.*
 
-<!---
-Marcoc51/Marcoc51 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
+## 📈 Other Professional Highlights
+
+- **FinTech — Axis Pay:** Improved an ELT pipeline's runtime by approximately 62%, reducing processing time from 1.5–2 hours to 30–50 minutes using a stack involving Airbyte, dbt, Kestra, and PostgreSQL.
+- **EdTech — Educatly:** Developed data warehousing and ingestion infrastructure using AWS, PostgreSQL, Kafka-based CDC, Python, and Mage.ai.
+- **Food & Beverage — Cilantro:** Built inventory management and reporting solutions, automated operational processes, and developed ETL workflows using Python, SQL Server, and Microsoft data tools.
+
+## 🛠️ Technical Stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, SQL |
+| **Cloud & Data Platforms** | Microsoft Azure, AWS, Snowflake, PostgreSQL, SQL Server |
+| **Data Modeling & Transformation** | dbt, dlt, Dimensional Modeling, Data Warehousing |
+| **Orchestration & Integration** | Dagster, Apache Airflow, Kestra, Mage.ai, Airbyte, REST APIs |
+| **Streaming & CDC** | Apache Kafka, Kafka Connect, Debezium, Schema Registry |
+| **DevOps & Engineering** | Docker, Git, GitHub Actions, GitLab, CI/CD |
+| **Analytics & Applications** | Power BI, Streamlit, Power Apps |
+
+## 🌱 Current Focus
+
+I'm continuing to strengthen my expertise in:
+
+- Cloud data architecture, infrastructure, and platform engineering
+- Data modeling, data quality, and reliable data pipelines
+- CI/CD, automation, orchestration, and infrastructure as code
+- Football analytics, athlete performance data, and sports technology
+
+## 🤝 Let's Connect
+
+I'm open to remote Data Engineering opportunities worldwide and international onsite positions with relocation and visa sponsorship.
+
+I'm particularly interested in football clubs, academies, sports technology companies, and organizations building impactful data products, while remaining open to opportunities across other industries.
+
+- 💼 **LinkedIn:** [linkedin.com/in/marc-sanad](https://www.linkedin.com/in/marc-sanad/)
+- 💻 **GitHub:** [github.com/Marcoc51](https://github.com/Marcoc51)
+- 📧 **Email:** [marcsanad@gmail.com](mailto:marcsanad@gmail.com)
